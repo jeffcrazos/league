@@ -9,8 +9,4 @@ UEFA Champions League Matches Dataset (2015–2024)
 
 Используемые инструменты :
 Язык программирования Python
-Библиотеки:
-requests: Для загрузки HTML-страниц с Википедии.
-BeautifulSoup: Для парсинга HTML и извлечения данных.
-pandas: Для обработки и сохранения данных в CSV.
-Источник данных: Страницы Википедии, такие как [season]_UEFA_Champions_League_group_stage и [season]_UEFA_Champions_League_knockout_phase
+Библиотеки: requests, BeautifulSoup, pandas
