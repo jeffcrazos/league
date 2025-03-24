@@ -7,4 +7,4 @@
 
 Используемые инструменты :
 1) Язык программирования Python
-2) Библиотеки: requests, BeautifulSoup, pandas
+2) Библиотеки requests, BeautifulSoup, pandas
