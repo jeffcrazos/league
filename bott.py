@@ -1,6 +1,6 @@
 import telebot
 
-bot = telebot.TeleBot('')
+bot = telebot.TeleBot('your_bot_token')
 
 winners = {
     '2015–2016': 'Real Madrid',
